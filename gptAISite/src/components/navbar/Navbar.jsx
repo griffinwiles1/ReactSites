@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import './navbar.css';
 import logo from '../../assets/logo.svg';
+
+//If this throws an error, try running: npm install react-icons from src/
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 
 const Menu = () => (
